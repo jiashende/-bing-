@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        百度/谷歌首页调用bing壁纸
-// @namespace    https://github.com/jiashende/BingWallpapers
-// @version      0.1
-// @description  完全不懂JS的我直接修改了darkz的JS
-// @author       jiashen
+// @namespace    https://github.com/jiashende/BingWallpapers-to-baidu-google
+// @version      0.2
+// @description  搬运了别人的Jscript，加以修改
+// @author       Jashen
 // @grant        GM_xmlhttpRequest
 // @grant        GM_log
 // @grant        unsafeWindow
