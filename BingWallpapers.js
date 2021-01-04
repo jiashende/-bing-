@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        百度/谷歌首页调用bing壁纸
+// @name         百度/谷歌首页调用bing壁纸
 // @namespace    https://github.com/jiashende/BingWallpapers/blob/master/BingWallpapers.js
 // @version      0.2
 // @description  搬运了别人的Jscript，加以修改
